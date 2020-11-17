@@ -1,1 +1,1 @@
-# University-of-Waterloo-Student-Housing-and-Venue-Capstone-Project
+# University of Waterloo Student Housing and Venue Capstone Project
